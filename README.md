@@ -1,9 +1,14 @@
-# Active Directory Homelab
+# Security Homelab
 
-Overview
+Learning cybersecurity and networking hands-on using a Windows Server 2022 
+AD environment and a Linux box. Documenting the process here as I go: 
+daily logs, write-ups once I complete something real, and configs along the way.
 
-1/16/25
+## Status
+Just getting started — Phase 0 (lab setup).
 
-This repository documents an Active Directory homelab used to learn core directory concepts, account lifecycle behavior, and safe PowerShell-based enumeration techniques. The lab prioritizes understanding how AD behaves before introducing automation, with a focus on read-only analysis and risk-aware operations.
-
-The goal is to build practical intuition around identity hygiene, stale account detection, and operational safety rather than bulk automation.
+## Structure
+- `logs/` — weekly log of what I worked on
+- `writeups/` — detailed breakdowns once something's actually done
+- `configs/` — exported configs, scripts, rules
+- `notes/` — raw study notes by topic
