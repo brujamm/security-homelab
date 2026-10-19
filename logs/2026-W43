@@ -1,0 +1,5 @@
+## 2026-10-19
+- Set up Win10 and Kali virtual machines in VMware
+- Created VMnet2 host-only network ("lab"), DHCP off
+- Next: Win10 VM install + domain join
+
