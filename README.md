@@ -1,6 +1,6 @@
 # Security Homelab
 
-Learning cybersecurity and networking hands-on using a Windows Server 2022 
+Learning cybersecurity and networking hands-on using a Windows Server 2025
 AD environment and a Linux box. Documenting the process here as I go: 
 daily logs, write-ups once I complete something real, and configs along the way.
 
